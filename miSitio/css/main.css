@@ -1,0 +1,38 @@
+body{
+	background: #AEB8F5;
+}
+div{
+	display: inline-block;
+}
+h1{
+	text-align: center;
+}
+h2{
+	color: #472978;
+}
+li{
+	list-style: none;
+}
+img{
+	height: 210px;
+    width: 210px;
+}
+a{
+	text-decoration: none;
+}
+span{
+	color:#372584; 
+	font-style: italic; 
+	font-size: 18px;
+}
+.titulo{
+	font-style: italic;
+}
+#header{
+	 display: block; 
+	 margin: 35px; 
+	 margin-top:5px;
+}
+#selector{
+	 padding-bottom: 10px;
+}
