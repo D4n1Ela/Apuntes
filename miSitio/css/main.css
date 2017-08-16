@@ -28,11 +28,11 @@ span{
 .titulo{
 	font-style: italic;
 }
+.selector{
+	 padding-bottom: 10px;
+}
 #header{
 	 display: block; 
 	 margin: 35px; 
 	 margin-top:5px;
-}
-#selector{
-	 padding-bottom: 10px;
 }
