@@ -1,0 +1,32 @@
+div{
+	text-align:center;
+}
+#container{
+	height: 100%;
+	width: 90%;
+	margin: 0 auto;
+
+}
+.barra{
+	height: 600px;
+	width: 5%;
+	float: left;
+}
+.pink{
+	background-color: pink;
+}
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.grey{
+	background-color: grey;
+}
+.yellow{
+	background-color: yellow;
+}
