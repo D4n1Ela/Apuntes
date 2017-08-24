@@ -1,0 +1,35 @@
+div{
+	text-align:center;
+}
+#general{
+	height: 600px;
+	width: 500px;
+	margin: 0 auto;
+
+}
+
+.izquierda, .derecha{
+	background-color: pink;
+	float: left;
+	height: 600px;
+	width: 50px;
+}
+
+.derecha{
+	float: right;
+}
+
+.izquierda{
+	float: left;
+}
+
+.arriba, .abajo, .centro{
+    background-color: #08C43D ;
+	width: 400px;
+	height: 100px;
+	float: left;
+}
+.centro{
+    background-color: #B7F37C;
+	height: 400px;
+}
