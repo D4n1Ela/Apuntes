@@ -2,34 +2,29 @@ div{
 	text-align:center;
 }
 #general{
-	height: 600px;
-	width: 500px;
+	height: 100%;
+	width: 50%;
 	margin: 0 auto;
 
 }
-
-.izquierda, .derecha{
-	background-color: pink;
-	float: left;
-	height: 600px;
-	width: 50px;
-}
-
-.derecha{
+.right{
 	float: right;
 }
 
-.izquierda{
+.left{
 	float: left;
 }
-
-.arriba, .abajo, .centro{
+.lado{
+	background-color: pink;
+	height: 600px;
+	width: 15%;
+}
+.medio{
     background-color: #08C43D ;
-	width: 400px;
 	height: 100px;
-	float: left;
+	width: 90%;
 }
-.centro{
+.center{
     background-color: #B7F37C;
 	height: 400px;
 }
