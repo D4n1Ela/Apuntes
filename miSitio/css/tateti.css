@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	font-size: 200px;
+	text-align: center;
+	font-family: lucida console;
+	visibility: hidden;
+}
+
+.cuadradoMenor:hover p{
+	color: black;
+	visibility: visible;
+}
+
+.cuadradoMenor{
+	background-color: #34DD27;
+	height: 200px;
+	width: 32%;
+	float: left;
+	border: grey solid 2px;
+	margin-right: -1px;
+	margin: 0 auto;
+}
+
+.cuadradoMenor:hover{
+    background-color: white;
+}
+
+#cuadradoMayor{
+	height: 600px;
+	width: 90%;
+	border: orange solid 4px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
