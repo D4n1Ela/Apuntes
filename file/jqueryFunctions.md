@@ -1,15 +1,15 @@
 ### *Functions* ###
 
-*Repaso:
+- Antes algunos métodos a tener en cuenta:
+  - *.addClass()*
+  - *.removeClass()*
+  - *.toggleClass()*
 
-&nbsp;
+  - *.show()*
+  - *.hide()*
+    
+***Repaso:***
 
-    .addClass()
-    .removeClass()
-    .toggleClass()
-
-    .show()
-    .hide()
 
     $('#enviar'). on('click', function(){
       //function lo dejo anonimo si es una función simple.
@@ -65,5 +65,6 @@ _____________________________________
     });
 
 ______________________________-
+
     $('button').attr("id"); Varsión vieja que funciona
     $('button').prop("id"); Versión actual
